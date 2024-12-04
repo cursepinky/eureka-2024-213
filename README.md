@@ -1,6 +1,9 @@
 # 24-2 유레카 프로젝트 최종 보고서
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRX3KRyBfAv1EoClPdX4_ULq3P0gX5bq8QqsdB9kkf3QtirV0iLzR-Tn132N7EZKQ/embed?start=false&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<iframe src="https://drive.google.com/file/d/1fUNZ3embyZBB3VfDG6mrI6_W-puNTmjh/view?usp=sharing" width="600" height="400"></iframe>
+
+<iframe src="file:///C:/Users/canny/Downloads/%EC%9C%A0%EB%A0%88%EC%B9%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2013%EC%A1%B0%20%EB%B0%9C%ED%91%9C%20(1).pptx.pdf" width="600" height="400"></iframe>
 # 13조 "C++ 보단 A+이 쉽다"
 
 ## **들어가며**
