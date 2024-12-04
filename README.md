@@ -3,7 +3,6 @@
 
 <iframe src="https://drive.google.com/file/d/1fUNZ3embyZBB3VfDG6mrI6_W-puNTmjh/view?usp=sharing" width="600" height="400"></iframe>
 
-<iframe src="file:///C:/Users/canny/Downloads/%EC%9C%A0%EB%A0%88%EC%B9%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2013%EC%A1%B0%20%EB%B0%9C%ED%91%9C%20(1).pptx.pdf" width="600" height="400"></iframe>
 # 13조 "C++ 보단 A+이 쉽다"
 
 ## **들어가며**
@@ -22,12 +21,12 @@
 
 ## **활동 내용**
 
-### 1주차
+#### 1주차
 ● 팀 구성 완료 [티켓 1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;: 팀원들이 모여 역할을 분담하고 팀의 목표를 설정했습니다. 
 
 <br></br>
-### 2주차
+#### 2주차
   <details>
   <summary>팀 소개 발표 개요 제출 [티켓 1]</summary>
   : 팀의 비전과 목표를 설명하는 발표 개요를 제출했습니다.
@@ -47,7 +46,7 @@
   </details>
 
 <br><br>
-### 3주차
+#### 3주차
 
 <details>
   <summary>다른 팀 소개 발표 때 질문1 [티켓 2]</summary>
@@ -62,18 +61,18 @@
 
 
 <br><br>
-### 4주차
+#### 4주차
 ● 대학원 설명회 참석<br>
 &nbsp;&nbsp;&nbsp;&nbsp;: 대학원에 대한 전반적인 설명을 듣고, 향후 진로에 대한 방향성을 모색했습니다.
   
 <br><br>
-### 5주차
+#### 5주차
 ● 학과 서비스 및 서버실 탐방 [티켓 1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; : 학과의 다양한 서비스와 서버실을 탐방하여 실무 환경을 이해했습니다. 
    
   
 <br><br>
-### 6주차
+#### 6주차
 ● 교과과정 이수계획과 비교과 활동계획 [티켓 1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;: 개인의 교과과정 이수계획과 비교과 활동계획을 수립했습니다.
   
@@ -90,7 +89,7 @@
 </details>
 
   <br><br>
-### 7주차
+#### 7주차
 ● 멘토링 시스템 참가 신청 [티켓 1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;: 멘토링 프로그램에 참여하기 위해 신청했습니다.
   
@@ -116,7 +115,7 @@
 </details>
     
   <br><br>
-### 8주차
+#### 8주차
 
 
 <details>
@@ -151,7 +150,7 @@
 
 
     <br></br>
-### 9주차
+#### 9주차
   
 <details>
   <summary>정통처 탐방</summary>
@@ -219,7 +218,7 @@
 </details>
     
   <br><br>
-### 10주차
+#### 10주차
   ●새로운 상상 설문 [티켓 1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;: 설문 조사에 참여하여 의견을 제출했습니다.
 
@@ -247,7 +246,7 @@
 
 
 <br><br>
-### 11주차
+#### 11주차
 <details>
   <summary>다른 팀 활동 발표 질문1 [티켓 1]</summary>
   : 다른 팀의 발표에 대해 질문을 작성했습니다.
@@ -261,7 +260,7 @@
 
 
 <br><br>
-### 12주차
+#### 12주차
 <details>
   <summary>다른 팀 활동 발표 질문2 [티켓 2]</summary>
   : 추가 질문을 작성하여 발표에 참여했습니다. 
@@ -299,7 +298,7 @@
 
 
    <br><br>
-### 13주차
+#### 13주차
   <details>
   <summary>다른 팀 활동 발표 질문3 [티켓 2]</summary>
   : 다른 팀 발표에 대해 추가 질문을 작성했습니다.
@@ -320,7 +319,7 @@
     
 
 <br><br>
-### 14주차
+#### 14주차
  ● 최종 보고서 평가 [티켓 1]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;: 최종 보고서를 작성하고 평가를 진행했습니다.
   
