@@ -262,9 +262,7 @@ A5. 인턴 활동이나 학술 동아리 활동을 열심히 참여하는 것을
   <summary>팀 활동 발표 [티켓 8]</summary>
   : 팀의 활동을 정리하여 발표했습니다.
 
- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoioi5c3kYgJpF58Ob8I0NpMeKldfOmQgErp0IN_zLOubTm3te3_UtFa6kHT-5MQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</details>
-
+ <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoioi5c3kYgJpF58Ob8I0NpMeKldfOmQgErp0IN_zLOubTm3te3_UtFa6kHT-5MQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <details>
   <summary>질문 3개 이상 받음 [티켓 1]</summary>
   : 발표 후 청중으로부터 질문을 받았습니다.<br>
