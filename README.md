@@ -11,7 +11,7 @@
 <br>
 <br>
 ## 1️⃣ 들어가며
-본 보고서는 팀 활동의 진행 과정을 정리하고, 각 주차별 주요 활동 및 결과를 기록하여 향후 참고자료로 활용하기 위한 목적을 가지고 작성되었습니다. 본 팀은 다양한 활동을 통해 학습하고 성장하며, 각 팀원 간의 협력과 소통을 강화하는 데 중점을 두었습니다. 
+본 보고서는 팀 활동의 진행 과정을 정리하고, 각 주차별 주요 활동 및 결과를 기록하여 향후 참고자료로 활용하기 위한 목적을 가지고 작성되었습니다. 본 팀은 다양한 활동을 통해 학습하고 성장하며, 팀원 간의 협력과 소통을 강화하는 데 중점을 두었습니다. 
 <br><br>
 ## 2️⃣ 팀원 소개
 <table>
@@ -248,7 +248,8 @@ A5. 인턴 활동이나 학술 동아리 활동을 열심히 참여하는 것을
   : 팀의 활동 내역을 정리하여 발표했습니다.
 
  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoioi5c3kYgJpF58Ob8I0NpMeKldfOmQgErp0IN_zLOubTm3te3_UtFa6kHT-5MQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<details>
+</details>
+ <details>
   <summary>발표 때 질문 3개 이상 받음 [티켓 1]</summary>
   : 활동 발표 후 다른 팀으로부터 질문을 받았습니다.<br>
 <br>
